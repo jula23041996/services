@@ -232,7 +232,7 @@ body {
 /*Головне зображення*/
 .hero-image__container{
 	margin: 0px;
-    background-image: url(.//img/services_hero-image.png);
+    background-image: url(services_hero-image.png);
 	height: 990px;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -353,7 +353,7 @@ body {
   }
 /*FEASIBILITY*/
 .feasibility-studies__body{
-	background-image:url(.//img/bg-circles.png);
+	background-image:url(bg-circles.png);
 	background-repeat: no-repeat;
 	background-position: center right;
 	background-size: contain;
@@ -664,7 +664,7 @@ body {
 
 /* Verification  & Certification */
 .verification__body{
-	background-image: url(.//img/bg-circles.png);
+	background-image: url(bg-circles.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: right;
@@ -812,22 +812,22 @@ body {
 	width: 65%;
 }
 .image1{
-	background-image: url(.//img/1asses.png);
+	background-image: url(1asses.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .image2{
-	background-image: url(.//img/2asses.png);
+	background-image: url(2asses.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .image3{
-	background-image: url(.//img/3asses.png);
+	background-image: url(3asses.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .image4{
-	background-image: url(.//img/4asses.png);
+	background-image: url(4asses.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -894,11 +894,25 @@ body {
 	height: 390px;
 	background-color: green;
 	border-radius: 5px;
-	background-image: url(./img/perf1.svg);
 	background-size: 50%;
 	background-repeat: no-repeat;
 	background-position: center right 32px;
 	padding: 66px 32px 266px 32px;
+  }
+  .part-content1{
+	background-image: url(perf1.svg);
+  }
+  .part-content2{
+	background-image: url(perf2.svg);
+  }
+  .part-content3{
+	background-image: url(perf3.svg);
+  }
+  .part-content4{
+	background-image: url(perf4.svg);
+  }
+  .part-content5{
+	background-image: url(perf5.svg);
   }
   .part__subtitle{
 	width: 100%;
