@@ -405,7 +405,7 @@ body {
 }
 .item__subtitle::before{
 	content: '';
-	background-image: url(.//img/svg_more.svg);
+	background-image: url(svg_more.svg);
 	background-repeat: no-repeat;
 	display: inline-block;
 	position: absolute;
