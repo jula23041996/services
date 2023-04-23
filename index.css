@@ -484,7 +484,7 @@ body {
 }
 /*Project DEVELOPMENT*/
 .project-development__body{
-	margin: 58px 0px 0px 0px;
+	margin: 58px 0px 144px 0px;
 	padding: 0px 15px 0px 0px;
 }
 .project-development__content{
@@ -586,10 +586,10 @@ body {
 	}
 	.stage__blocks{
 		width: 100%;
-		margin: auto;
 	}
 	.stage{
-		flex: 0 1 60%;
+		margin: auto;
+		flex: 0 1 80%;
 	}
 }
 /* IMPLEMENTATION */
