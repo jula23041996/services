@@ -238,7 +238,7 @@ body {
 /*Головне зображення*/
 .hero-image__container{
 	margin: 0px;
-    background-image: url(.//img/services_hero-image.png);
+    background-image: url(services_hero-image.png);
 	height: 990px;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -427,7 +427,7 @@ body {
 }
 .item__subtitle::before{
 	content: '';
-	background-image: url(.//img/svg_more.svg);
+	background-image: url(svg_more.svg);
 	background-repeat: no-repeat;
 	display: inline-block;
 	position: absolute;
@@ -825,22 +825,22 @@ body {
 	width: 80%;
 }
 .image1{
-	background-image: url(.//img/1asses.png);
+	background-image: url(1asses.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .image2{
-	background-image: url(.//img/2asses.png);
+	background-image: url(2asses.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .image3{
-	background-image: url(.//img/3asses.png);
+	background-image: url(3asses.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .image4{
-	background-image: url(.//img/4asses.png);
+	background-image: url(4asses.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
