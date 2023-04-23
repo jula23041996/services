@@ -649,6 +649,7 @@ body {
 .unit__subtext{
 	flex: 0 1 auto;
 	color: #676979;
+	padding: 0px 0px 54px 0px;
 }
 .unit__photo img{
 	object-fit: contain;
